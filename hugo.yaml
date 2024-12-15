@@ -21,7 +21,7 @@ minify:
 
 languages:
   en:
-    languageName: "没别的语言辣"
+    languageName: "返回主页面"
     weight: 1
     taxonomies:
       category: categories
@@ -42,6 +42,25 @@ languages:
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   fa:
+    languagedirection: rtl
+    weight: 3
+    title: PaperMod RTL
+    taxonomies:
+      category: FAcategories
+      tag: FAtags
+      series: FAseries
+    menu:
+      main:
+        - name: FATags
+          url: fatags
+          weight: 10
+    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    params:
+      homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to RTL layout
+
+  about:
     languagedirection: rtl
     weight: 3
     title: PaperMod RTL

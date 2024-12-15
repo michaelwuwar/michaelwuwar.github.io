@@ -2,21 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/hugo-PaperMod/en/sitemap.xml</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/en/sitemap.xml</loc>
     
       <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/hugo-PaperMod/fr/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/sitemap.xml</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/sitemap.xml</loc>
     
       <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     

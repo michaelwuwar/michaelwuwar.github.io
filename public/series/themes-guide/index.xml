@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Themes Guide on PaperMod</title>
-    <link>http://localhost:1313/hugo-PaperMod/series/themes-guide/</link>
-    <description>Recent content in Themes Guide on PaperMod</description>
+    <title>Themes Guide on Michael的博客</title>
+    <link>https://michaelwuwar.github.io/hugo-PaperMod/series/themes-guide/</link>
+    <description>Recent content in Themes Guide on Michael的博客</description>
     <image>
-      <title>PaperMod</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <title>Michael的博客</title>
+      <url>https://michaelwuwar.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://michaelwuwar.github.io/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaelwuwar.github.io/hugo-PaperMod/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/hugo-PaperMod/posts/markdown-syntax/</link>
+      <link>https://michaelwuwar.github.io/hugo-PaperMod/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/posts/markdown-syntax/</guid>
+      <guid>https://michaelwuwar.github.io/hugo-PaperMod/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/hugo-PaperMod/posts/code_syntax/</link>
+      <link>https://michaelwuwar.github.io/hugo-PaperMod/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/posts/code_syntax/</guid>
+      <guid>https://michaelwuwar.github.io/hugo-PaperMod/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
   </channel>

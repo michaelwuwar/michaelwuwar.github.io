@@ -2,88 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/posts/markdown-syntax/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/posts/markdown-syntax/"
+                href="https://michaelwuwar.github.io/hugo-PaperMod/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/posts/markdown-syntax/"
+                href="https://michaelwuwar.github.io/hugo-PaperMod/fa/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/facategories/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/facategories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/facategories/syntax/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/facategories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/facategories/themes/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/facategories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/faseries/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/faseries/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/faseries/themes-guide/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/faseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/fatags/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/fatags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/fatags/css/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/fatags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/fatags/html/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/fatags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/fatags/markdown/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/fatags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/fatags/themes/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/fatags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/"
+                href="https://michaelwuwar.github.io/hugo-PaperMod/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/"
+                href="https://michaelwuwar.github.io/hugo-PaperMod/fa/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fa/posts/</loc>
+    <loc>https://michaelwuwar.github.io/hugo-PaperMod/fa/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/posts/"
+                href="https://michaelwuwar.github.io/hugo-PaperMod/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/posts/"
+                href="https://michaelwuwar.github.io/hugo-PaperMod/fa/posts/"
                 />
   </url>
 </urlset>
