@@ -216,3 +216,9 @@ services:
 privacy:
     googleAnalytics:
         disable: false
+
+sitemap:
+  changeFreq: ""
+  disable: false
+  filename: sitemap.xml
+  priority: -1
