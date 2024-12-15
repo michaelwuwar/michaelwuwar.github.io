@@ -14,6 +14,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
+googleAnalytics: G-PB1YTSJ41V
 
 minify:
   disableXML: true
@@ -38,46 +39,34 @@ languages:
         - name: 标签
           url: tags/
           weight: 10
-        - name: 维基
+        - name: Github
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-
-  fa:
-    languagedirection: rtl
-    weight: 3
-    title: PaperMod RTL
-    taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
-    menu:
-      main:
-        - name: FATags
-          url: fatags
-          weight: 10
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
 
   about:
     languagedirection: rtl
     weight: 3
-    title: PaperMod RTL
+    title: 关于博客
     taxonomies:
       category: FAcategories
       tag: FAtags
       series: FAseries
     menu:
       main:
-        - name: FATags
-          url: fatags
+        - name: GithubPages仓库
+          url: https://github.com/michaelwuwar/michaelwuwar.github.io
           weight: 10
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
       homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
+        Title: "关于这个博客"
+        Content: >
+      👋 什么年代了还写传统日记？
+
+      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
+
+      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
+
+      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
 outputs:
   home:
@@ -156,9 +145,13 @@ params:
   # icon: icon.png
   # iconHeight: 35
 
-  # analytics:
-  #     google:
-  #         SiteVerificationTag: "XYZabc"
+  analytics:
+      google:
+          SiteVerificationTag: "XYZabc"
+      bing:
+          SiteVerificationTag: "XYZabc"
+      yandex:
+          SiteVerificationTag: "XYZabc"
 
   assets:
     disableHLJS: true
@@ -217,3 +210,9 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+  googleAnalytics:
+    id: "G-PB1YTSJ41V"
+
+privacy:
+    googleAnalytics:
+        disable: false
