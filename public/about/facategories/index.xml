@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Facategories on 关于博客</title>
+    <link>https://michaelwuwar.github.io/hugo-PaperMod/about/facategories/</link>
+    <description>Recent content in Facategories on 关于博客</description>
+    <image>
+      <title>关于博客</title>
+      <url>https://michaelwuwar.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://michaelwuwar.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>about</language>
+    <copyright>PaperMod Contributors</copyright>
+    <atom:link href="https://michaelwuwar.github.io/hugo-PaperMod/about/facategories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
