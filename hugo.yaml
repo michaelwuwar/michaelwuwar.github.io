@@ -30,7 +30,7 @@ languages:
       series: series
     menu:
       main:
-        - name: 成就
+        - name: 历史
           url: archives
           weight: 5
         - name: 搜索
