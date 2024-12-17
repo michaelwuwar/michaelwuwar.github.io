@@ -176,7 +176,7 @@ TocOpen: true
 - 进入网站后，填写一些信息，把你的博客网址填上去，它会生成一个G开头的衡量ID，复制这个ID号，替换到**博客根目录/hugo.yaml**中，如图所示
 ![图片](images/blog_9.png)
 ![图片](images/blog_10.png)
-- 刚刚创建的google_analytics.html中，粘贴以下内容：
+- 刚刚创建的google_analytics.html中，粘贴以下内容：（注意要修改以下代码里的id为你的衡量id）
   
 ```html
 <!-- Google tag (gtag.js) -->
